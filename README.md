@@ -1,4 +1,4 @@
-<h1 align="left">HELOOOOOOOOOOOOOOO I'M CLAPSEUR 🔥🔥🔥🔥🔥🔥🔥</h1>
+<h1 align="left">Heya ! What's good ? I'm Clapseur a French/English Programmer and Website Designer</h1>
 
 ###
 
